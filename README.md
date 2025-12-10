@@ -1,6 +1,6 @@
 # Movie Review Sentiment Analysis
 
-This project aimed to develop a sentiment analysis model to predict whether a movie review is positive or negative using natural language processing and machine learning techniques. By training and testing a Logistic Regression model on a labeled dataset of 50,000 movie reviews, we gained insights into public opinion and ensured the model's generalizability through an external test set.
+This project aimed to develop a sentiment analysis model to predict whether a movie review is positive or negative using natural language processing and machine learning techniques. By training and testing a Logistic Regression model on a labeled dataset of 50,000 movie reviews, we gained insights into public opinion and ensured the model's generalizability through an external test set. Since the datasets are too large to be attached to github, please find them below.
 
 ## Dataset
 
